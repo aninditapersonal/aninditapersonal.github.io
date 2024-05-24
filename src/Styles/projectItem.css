@@ -1,0 +1,16 @@
+.projectItem {
+    display: flex;
+    flex-direction: column;
+    row-gap: 30px;
+}
+
+.projectItem video {
+    height: 250px;
+    width: 450px;
+    cursor: pointer;
+    transition-duration: 0.5s;
+}
+
+.projectItem video:hover {
+    transform: scale(1.1);
+}

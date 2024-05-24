@@ -1,0 +1,81 @@
+#home {
+    width: 100vw;
+    max-width: 70%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.left, .right {
+    display: flex;
+    flex-direction: column;
+    row-gap: 36px;
+    justify-content: center;
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.hello {
+    font-size: 30px;
+    font-weight: 100;
+}
+
+.introName {
+    color: yellow;
+}
+
+.introPara {
+    font-size: medium;
+    font-weight: 300;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+}
+
+.btn {
+    width: fit-content;
+    padding: 12px 16px;
+    background-color: gray;
+    color: black;
+    border-radius: 50px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    transition-duration: 0.5s;
+}
+
+.btn:hover {
+    transform: scale(1.1);
+}
+
+.btn a {
+    text-decoration: none;
+    background-color: gray;
+    color: black;
+    font-size: 14px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+}
+
+img {
+    height: 100vh;
+}
+
+@media screen and (max-width: 840px) {
+    img {
+        right: -10vw;
+    }
+    .content {
+        font-size: 10vw;
+    }
+    .hello {
+        font-size: 4.5vw;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    img {
+        right: -20vw;
+    }
+}
