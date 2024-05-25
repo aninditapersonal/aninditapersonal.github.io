@@ -2,8 +2,10 @@ import React from 'react'
 import '../App.css'
 import ProjectItem from './ProjectItem'
 import landing from '../Videos/Landing_Page.mp4'
-import port from '../Videos/Portfolio.mp4'
+import port from '../Videos/Portfolio-another.mp4'
+import shop from '../Videos/Shopsy.mp4'
 import temperature from '../Videos/Temperature_Converter.mp4'
+import Portfolio from '../Videos/Portfolio.mp4'
 
 function Project() {
   return (
@@ -17,6 +19,8 @@ function Project() {
             <ProjectItem src={landing} />
             <ProjectItem src={port} />
             <ProjectItem src={temperature} />
+            <ProjectItem src={shop} />
+            <ProjectItem src={Portfolio} />
           </div>
         </div>
       </section>

@@ -16,7 +16,7 @@ function Home() {
             </button>
           </div>
           <div className="right">
-            <img src={profile} alt="Profile picture" />
+            <img src={profile} alt="Profile" />
           </div>
       </section>
 
