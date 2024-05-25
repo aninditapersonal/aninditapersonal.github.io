@@ -51,9 +51,9 @@ function Contact() {
               <span className='cont-heading'>Social Contacts</span>
               <div className="links">
                 <a href='https://www.linkedin.com/in/aninditapersonal/' target='_blank' rel='noreferrer'><img src={linkedin} alt="Linkedin" className='link' /></a>
-                <a href='https://github.com/aninditapersonal' target='_blank' rel='noreferrer'><img src={github} alt="Linkedin" className='link' /></a>
-                <a href='https://leetcode.com/u/aninditapersonal/' target='_blank' rel='noreferrer'><img src={leetcode} alt="Linkedin" className='link' /></a>
-                <a href='https://www.hackerrank.com/profile/Anindita_Paul' target='_blank' rel='noreferrer'><img src={hackerrank} alt="Linkedin" className='link' /></a>
+                <a href='https://github.com/aninditapersonal' target='_blank' rel='noreferrer'><img src={github} alt="Github" className='link' /></a>
+                <a href='https://leetcode.com/u/aninditapersonal/' target='_blank' rel='noreferrer'><img src={leetcode} alt="Leetcode" className='link' /></a>
+                <a href='https://www.hackerrank.com/profile/Anindita_Paul' target='_blank' rel='noreferrer'><img src={hackerrank} alt="Hackerrank" className='link' /></a>
               </div>
             </div>
             <div className="mail">

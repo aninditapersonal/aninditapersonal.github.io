@@ -13,12 +13,14 @@ function Navbar() {
   useEffect(() => {
     const home = document.getElementById("home");
     const about = document.getElementById("about");
-    const portfolio = document.getElementById("portfolio");
+    const project = document.getElementById("project");
+    const certificate = document.getElementById("certificate");
     const contact = document.getElementById("contact");
     const onscroll = () => {
         if (window.scrollY >= home.offsetTop && window.scrollY < home.offsetTop + home.offsetHeight) setActive("home");
         else if (window.scrollY >= about.offsetTop && window.scrollY < about.offsetTop + about.offsetHeight) setActive("about");
-        else if (window.scrollY >= portfolio.offsetTop && window.scrollY < portfolio.offsetTop + portfolio.offsetHeight) setActive("portfolio");
+        else if (window.scrollY >= project.offsetTop && window.scrollY < project.offsetTop + project.offsetHeight) setActive("project");
+        else if (window.scrollY >= certificate.offsetTop && window.scrollY < certificate.offsetTop + certificate.offsetHeight) setActive("certificate");
         else if (window.scrollY >= contact.offsetTop && window.scrollY < contact.offsetTop + contact.offsetHeight) setActive("contact");
     }
     window.onscroll = onscroll;
@@ -38,30 +40,17 @@ function Navbar() {
           <li className= {active === 'about' ? 'active' : ""} onClick={() => scroll('about')}>
             About
           </li>
-          <li className= {active === 'portfolio' ? 'active' : ""} onClick={() => scroll('portfolio')}>
+          <li className= {active === 'project' ? 'active' : ""} onClick={() => scroll('project')}>
             Projects
+          </li>
+          <li className= {active === 'certificate' ? 'active' : ""} onClick={() => scroll('certificate')}>
+            Achievements
           </li>
           <li className= {active === 'contact' ? 'active' : ""} onClick={() => scroll('contact')}>
             Contact
           </li>
         </ul>
       </div>
-      {/* <div className="mobMenu">
-        <ul>
-        <li onClick={() => scroll('home')}>
-            Home
-          </li>
-          <li onClick={() => scroll('about')}>
-            About
-          </li>
-          <li onClick={() => scroll('portfolio')}>
-            Projects
-          </li>
-          <li onClick={() => scroll('contact')}>
-            Contact
-          </li>
-        </ul>
-      </div> */}
     </nav>
   )
 }

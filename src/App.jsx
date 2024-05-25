@@ -4,6 +4,7 @@ import Home from "./Components/Home";
 import About from "./Components/About";
 import Project from "./Components/Project";
 import Contact from "./Components/Contact";
+import Certificate from "./Components/Certificate";
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
       <Home />
       <About />
       <Project />
+      <Certificate />
       <Contact />
     </>
   );

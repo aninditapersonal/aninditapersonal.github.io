@@ -1,12 +1,11 @@
 import React from 'react'
 import '../Styles/certificateItem.css'
-import deep from '../Certificates/DEEP LEARNING.jpg'
 
-function CertificateItem() {
+function CertificateItem( {src} ) {
   return (
     <>
         <div className="certificateItem">
-            <a href={deep} target='_blank'><img src={deep} alt="Deep Learning" /></a>
+            <a href={src} target='_blank' rel="noreferrer"><img src={src} alt="certificate" /></a>
         </div>
     </>
   )

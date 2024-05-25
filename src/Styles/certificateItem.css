@@ -5,8 +5,7 @@
 }
 
 .certificateItem img {
-    height: 250px;
-    width: 450px;
+    width: 100%;
     cursor: pointer;
     transition-duration: 0.5s;
 }
