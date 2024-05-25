@@ -1,10 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.3fdf7b7c.css",
-    "main.js": "/static/js/main.70b3d3ea.js",
+    "main.js": "/static/js/main.f2cfa9a4.js",
     "static/js/453.90a7b0b2.chunk.js": "/static/js/453.90a7b0b2.chunk.js",
+    "static/media/Shopsy.mp4": "/static/media/Shopsy.b24b64ecbb37f10100ab.mp4",
+    "static/media/Portfolio.mp4": "/static/media/Portfolio.a9ac47d16bc28245f8a0.mp4",
     "static/media/Landing_Page.mp4": "/static/media/Landing_Page.478f8e9273d10c2fdae5.mp4",
-    "static/media/Portfolio.mp4": "/static/media/Portfolio.c9b6400863030692e289.mp4",
+    "static/media/Portfolio-another.mp4": "/static/media/Portfolio-another.c9b6400863030692e289.mp4",
     "static/media/Temperature_Converter.mp4": "/static/media/Temperature_Converter.6918723d2e8cd3a8d011.mp4",
     "static/media/SQL_basic certificate.jpg": "/static/media/SQL_basic certificate.13238ca6c91baa9d3d3e.jpg",
     "static/media/AWS.jpg": "/static/media/AWS.76856a3547e60f7734c9.jpg",
@@ -29,11 +31,11 @@
     "static/media/hackerrank.webp": "/static/media/hackerrank.8978c55d5bbe49850514.webp",
     "index.html": "/index.html",
     "main.3fdf7b7c.css.map": "/static/css/main.3fdf7b7c.css.map",
-    "main.70b3d3ea.js.map": "/static/js/main.70b3d3ea.js.map",
+    "main.f2cfa9a4.js.map": "/static/js/main.f2cfa9a4.js.map",
     "453.90a7b0b2.chunk.js.map": "/static/js/453.90a7b0b2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3fdf7b7c.css",
-    "static/js/main.70b3d3ea.js"
+    "static/js/main.f2cfa9a4.js"
   ]
 }
