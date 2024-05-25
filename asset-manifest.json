@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3fdf7b7c.css",
+    "main.js": "/static/js/main.70b3d3ea.js",
+    "static/js/453.90a7b0b2.chunk.js": "/static/js/453.90a7b0b2.chunk.js",
+    "static/media/Landing_Page.mp4": "/static/media/Landing_Page.478f8e9273d10c2fdae5.mp4",
+    "static/media/Portfolio.mp4": "/static/media/Portfolio.c9b6400863030692e289.mp4",
+    "static/media/Temperature_Converter.mp4": "/static/media/Temperature_Converter.6918723d2e8cd3a8d011.mp4",
+    "static/media/SQL_basic certificate.jpg": "/static/media/SQL_basic certificate.13238ca6c91baa9d3d3e.jpg",
+    "static/media/AWS.jpg": "/static/media/AWS.76856a3547e60f7734c9.jpg",
+    "static/media/Coursera3.jpg": "/static/media/Coursera3.2e1232b399c73ba5f6a4.jpg",
+    "static/media/Coursera5.jpg": "/static/media/Coursera5.9555772dc344fda29a12.jpg",
+    "static/media/Coursera4.jpg": "/static/media/Coursera4.6d7dcb76d8e5b283dad4.jpg",
+    "static/media/Resume.pdf": "/static/media/Resume.06c73ce2a912600ac97e.pdf",
+    "static/media/Azure Fundamentals Architecture.jpg": "/static/media/Azure Fundamentals Architecture.a045674bcc99a0923ed8.jpg",
+    "static/media/Microsoft Azure Fundamentals.jpg": "/static/media/Microsoft Azure Fundamentals.36c238053a9e2a7556f1.jpg",
+    "static/media/profile2-removebg.png": "/static/media/profile2-removebg.15216748ce870d6650cc.png",
+    "static/media/Secondary-removebg-preview.png": "/static/media/Secondary-removebg-preview.7411a63932e6b6542bd6.png",
+    "static/media/grad-cap-removebg-preview.png": "/static/media/grad-cap-removebg-preview.e0fde8169ede91aaa7ad.png",
+    "static/media/Higher_Secondary-removebg-preview.png": "/static/media/Higher_Secondary-removebg-preview.5a15964ddce05b1c75ab.png",
+    "static/media/leetcode.png": "/static/media/leetcode.c79f333b12595d3eec8f.png",
+    "static/media/mysql.jpg": "/static/media/mysql.1954b42513aedad6af9b.jpg",
+    "static/media/css.png": "/static/media/css.cb993f18f584f8060eb3.png",
+    "static/media/c.jpg": "/static/media/c.42803df881b11e457d3f.jpg",
+    "static/media/java.jpg": "/static/media/java.f8047a9a01c547fae4bd.jpg",
+    "static/media/javascript.jpg": "/static/media/javascript.5cf6ed5537c5756ea87f.jpg",
+    "static/media/c++.webp": "/static/media/c++.7f974544230cbf35325f.webp",
+    "static/media/linkedin.webp": "/static/media/linkedin.4c11b4693dd4eebca5be.webp",
+    "static/media/hackerrank.webp": "/static/media/hackerrank.8978c55d5bbe49850514.webp",
+    "index.html": "/index.html",
+    "main.3fdf7b7c.css.map": "/static/css/main.3fdf7b7c.css.map",
+    "main.70b3d3ea.js.map": "/static/js/main.70b3d3ea.js.map",
+    "453.90a7b0b2.chunk.js.map": "/static/js/453.90a7b0b2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fdf7b7c.css",
+    "static/js/main.70b3d3ea.js"
+  ]
+}
